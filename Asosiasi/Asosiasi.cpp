@@ -16,3 +16,15 @@ public:
 	void tambahDokter(dokter*);
 	void tambahDokter();
 };
+
+class dokter {
+	string nama;
+	vector<pasien*> daftar_pasien;
+	dokter(string pNama) :nama(pNama) {
+		cout << "Dokter \"" << nama << "\ Ada \n";
+	}
+	~dokter() {
+		cout << "Dokter \:" << nama << "\ Tidak ada \n";
+	}
+	void tambahPasien(pasien*);
+}
