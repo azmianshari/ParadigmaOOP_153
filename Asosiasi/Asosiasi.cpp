@@ -27,4 +27,5 @@ class dokter {
 		cout << "Dokter \:" << nama << "\ Tidak ada \n";
 	}
 	void tambahPasien(pasien*);
+	void tambahPasien();
 }
