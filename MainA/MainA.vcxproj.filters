@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ParadigmaOOP_153.cpp">
+    <ClCompile Include="MainA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

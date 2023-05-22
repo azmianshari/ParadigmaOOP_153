@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_153", "ParadigmaOOP_153\ParadigmaOOP_153.vcxproj", "{6B2F13AC-A85A-45F6-BC46-C35BA6930714}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Anak", "Anak\Anak.vcxproj", "{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6B2F13AC-A85A-45F6-BC46-C35BA6930714}.Release|x64.Build.0 = Release|x64
 		{6B2F13AC-A85A-45F6-BC46-C35BA6930714}.Release|x86.ActiveCfg = Release|Win32
 		{6B2F13AC-A85A-45F6-BC46-C35BA6930714}.Release|x86.Build.0 = Release|Win32
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Debug|x64.ActiveCfg = Debug|x64
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Debug|x64.Build.0 = Debug|x64
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Debug|x86.Build.0 = Debug|Win32
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Release|x64.ActiveCfg = Release|x64
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Release|x64.Build.0 = Release|x64
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Release|x86.ActiveCfg = Release|Win32
+		{CFEB7012-E257-44B2-A57C-5FD5E4332DF5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

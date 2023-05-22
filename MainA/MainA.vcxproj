@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6b2f13ac-a85a-45f6-bc46-c35ba6930714}</ProjectGuid>
-    <RootNamespace>ParadigmaOOP153</RootNamespace>
+    <ProjectGuid>{f79c356b-882b-40a3-a8a8-9c2a9a200fc6}</ProjectGuid>
+    <RootNamespace>MainA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ParadigmaOOP_153.cpp" />
+    <ClCompile Include="MainA.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

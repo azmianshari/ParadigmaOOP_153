@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ParadigmaOOP_153.cpp">
+    <ClCompile Include="Anak.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ibu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
