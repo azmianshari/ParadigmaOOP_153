@@ -6,6 +6,10 @@ class anak {
 public:
 	string nama;
 	anak(string pNama) :nama(pNama) {
-		cout << "Anak \" 
+		cout << "Anak \"" << nama << "\" Ada \n";
+	}
+	~anak() {
+		cout << "Anak \"" << nama << "\" Tidak ada \n";
 	}
 };
+#endif
